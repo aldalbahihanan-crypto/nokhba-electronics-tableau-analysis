@@ -1,6 +1,6 @@
-# 📊 Nokhba Electronics — Financial & Sales Analysis
+#  Nokhba Electronics — Financial & Sales Analysis
 
-## 🎯 Executive Summary
+##  Executive Summary
 
 A comprehensive financial and sales analysis project for Nokhba Electronics, 
 a regional electronics distributor. This portfolio demonstrates proficiency in 
@@ -14,7 +14,7 @@ using industry-standard tools.
 
 ---
 
-## 📁 Project Contents
+##  Project Contents
 
 ### **1. Excel Workbook: `Nokhba_Electronics_Financial_Analysis.xlsx`**
 
@@ -108,7 +108,7 @@ Professional executive-level dashboard with 8 key visualizations:
 
 ---
 
-## 📊 Key Financial Metrics
+## Key Financial Metrics
 
 | Metric | Value | Insight |
 |--------|-------|---------|
@@ -136,45 +136,45 @@ Professional executive-level dashboard with 8 key visualizations:
 ## 💡 Audit & Analytical Procedures Demonstrated
 
 ### **1. Data Ingestion & Cleansing**
-- ✅ Identified and corrected inconsistencies in client names
-- ✅ Standardized product categories
-- ✅ Removed duplicate entries
+-  Identified and corrected inconsistencies in client names
+-  Standardized product categories
+-  Removed duplicate entries
 - **Audit Relevance:** Essential for preparing client data for audit testing
 
 ### **2. Analytical Procedures**
-- ✅ Vertical analysis (Common-Size) to identify unusual trends
-- ✅ Year-over-year growth analysis
-- ✅ Margin stability assessment
+-  Vertical analysis (Common-Size) to identify unusual trends
+-  Year-over-year growth analysis
+-  Margin stability assessment
 - **Audit Relevance:** Core substantive procedure used in financial statement audits
 
 ### **3. Substantive Testing**
-- ✅ Trial Balance verification across 3 fiscal years
-- ✅ Debit/Credit equality confirmation
-- ✅ Balance sheet account reconciliation
+-  Trial Balance verification across 3 fiscal years
+-  Debit/Credit equality confirmation
+-  Balance sheet account reconciliation
 - **Audit Relevance:** Ensures mathematical accuracy of general ledger
 
 ### **4. Asset Verification**
-- ✅ Fixed Assets Register with depreciation calculations
-- ✅ Straight-line depreciation method application
-- ✅ Net Book Value tracking and reconciliation
+-  Fixed Assets Register with depreciation calculations
+-  Straight-line depreciation method application
+-  Net Book Value tracking and reconciliation
 - **Audit Relevance:** Tests asset valuation and depreciation reasonableness
 
 ### **5. Compliance Testing**
-- ✅ Payroll register analysis for 14 employees
-- ✅ GOSI deduction verification (Saudi labor law compliance)
-- ✅ Net salary calculations
+-  Payroll register analysis for 14 employees
+-  GOSI deduction verification (Saudi labor law compliance)
+-  Net salary calculations
 - **Audit Relevance:** Ensures payroll controls and regulatory compliance
 
 ### **6. Financial Modeling & Scenario Analysis**
-- ✅ Loan scenario modeling using Excel Scenario Manager
-- ✅ PMT function for monthly installment calculations
-- ✅ Sensitivity analysis (Base, Optimistic, Pessimistic cases)
+-  Loan scenario modeling using Excel Scenario Manager
+-  PMT function for monthly installment calculations
+-  Sensitivity analysis (Base, Optimistic, Pessimistic cases)
 - **Audit Relevance:** Supports management assertions on going concern and capital structure
 
 
 ---
 
-## 📈 Business Insights & Recommendations
+##  Business Insights & Recommendations
 
 ### **Sales Performance**
 - **Strength:** Consistent 22.6% growth over 3 years indicates market expansion
@@ -193,7 +193,7 @@ Professional executive-level dashboard with 8 key visualizations:
 
 ---
 
-## 🚀 How to Use This Portfolio
+##  How to Use This Portfolio
 
 1. **Review the Excel Workbook:**
    - Open `Nokhba_Electronics_Financial_Analysis.xlsx`
@@ -212,19 +212,19 @@ Professional executive-level dashboard with 8 key visualizations:
 
 ---
 
-## 🎯 Key Takeaways
+##  Key Takeaways
 
 This project demonstrates:
-- ✅ **Proficiency** in financial analysis and audit procedures
-- ✅ **Mastery** of industry-standard tools (Excel, Tableau)
-- ✅ **Attention to Detail** in data cleansing and verification
-- ✅ **Business Judgment** in scenario modeling and recommendations
-- ✅ **Communication Skills** through clear documentation and visualizations
-- ✅ **Readiness** for professional audit and consulting roles
+-  **Proficiency** in financial analysis and audit procedures
+-  **Mastery** of industry-standard tools (Excel, Tableau)
+-  **Attention to Detail** in data cleansing and verification
+-  **Business Judgment** in scenario modeling and recommendations
+-  **Communication Skills** through clear documentation and visualizations
+-  **Readiness** for professional audit and consulting roles
 
 ---
 
-## 📧 Contact Information
+##  Contact Information
 
 - **GitHub:** [github.com/aldalbahihanan]](https://github.com/aldaalbahihanan)
 - **Email:** [aldalbahihanan@gmail.com
@@ -232,13 +232,8 @@ This project demonstrates:
 
 ---
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License — see the LICENSE file for details.
-
----
-
-**Last Updated:** May 2026  
-**Status:** ✅ Complete & Ready for Portfolio Review
 
 ---
